@@ -7,9 +7,9 @@
 * device/DeviceManager.py : A class to manager all registered devices
 * device/CameraA/AligningView.py : A class about real time rebar alignment based machine learning prediction
 
-## Preview
+## Preview (it is a gif image, so it takes time to load)
 <p align="center">
-<img src="preview.gif">
+<img src="img/preview.gif">
 </p>
 
 ## Environment
